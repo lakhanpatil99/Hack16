@@ -126,4 +126,4 @@ NAV_ITEMS = [
     "📌 Follow-up",
     "🌍 External Tracker",
     "📊 Repeatability"
-]
+] for Button set (On click(Action==Dialy.Quecheck())
